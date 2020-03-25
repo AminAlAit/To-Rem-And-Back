@@ -100,3 +100,6 @@ Our plan was to create a game that features two different genres and camera pers
 we wanted to create a game that isn’t plainly simple. The random level generation coding and the AI search and follow system were main 
 contributors to this. We were able to succeed in writing the code and script, designing the assets, and finalizing the first portion of 
 the game. Given the enough time and effort, we might be able to produce a finished game that is able to compete in the 2D gaming market. 
+
+To run the game, please find the executable file in the "To Rem & Back Executable" folder.
+The project file is located in the "Version 1.9.9.1" folder.
