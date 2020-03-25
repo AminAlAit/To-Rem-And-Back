@@ -1,0 +1,1 @@
+if(scr_animation_hit_frame(2)) audio_play_sound(snd_hit, 11, false);

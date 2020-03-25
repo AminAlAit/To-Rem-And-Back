@@ -1,0 +1,3 @@
+1) fix my scr_cutscene_input script where it it DOES deny input from player, but keeps last input running
+2) advice for constucting an inner system object
+3) 

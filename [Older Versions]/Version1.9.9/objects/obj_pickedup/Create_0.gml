@@ -1,0 +1,1 @@
+target = scr_player_detector("obj_pickedup");

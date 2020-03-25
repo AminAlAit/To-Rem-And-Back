@@ -1,0 +1,12 @@
+1) Limbo: Use optimized movement. 
+
+2) fix: make levels in REM create at least one enemy
+
+2.1) fix cutscene script: input control (when we deny all input from player, 
+	it does that but keeps the player moving using its last inputs)
+
+3) add day night cycle system
+
+4) light flickering from hospital and waiting room ceiling
+
+5) fix fade in fade out cutscene scripts
